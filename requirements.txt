@@ -1,0 +1,5 @@
+keyboard
+numpy
+colorama
+mouse
+dnspython
